@@ -43,7 +43,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 在之前我们使用`AppDelegate`和`SceneDelegate`来管理生命周期，这样很繁琐。如今使用`App Name App.swift`文件来代替。
 
 <p align="center">
-<img src="/resources/LifeCycle.png">
+<img src="/Resources/LifeCycle.png">
 </p>
 
 以下便是`HelloWorldApp.swift`文件的内容。
